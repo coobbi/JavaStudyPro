@@ -1,6 +1,6 @@
 Privacy Policy
 
-coobbi built the Java runtime environment pro app. This SERVICE is provided by coobbi.
+coobbi built the Jre4Android Pro(Java runtime environment pro) app. This SERVICE is provided by coobbi.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
