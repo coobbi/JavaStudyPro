@@ -1,6 +1,6 @@
 Privacy Policy
 
-oldcwj built the App firewall app. This SERVICE is provided by coobbi.
+Coobbi built the App firewall app. This SERVICE is provided by coobbi.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
