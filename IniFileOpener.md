@@ -57,10 +57,6 @@ Changes to This Privacy Policy:
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-By downloading, installing, or using this software, you agree to the terms of the Minecraft End User License Agreement (EULA) provided by Mojang Studios/Microsoft, available at: https://account.mojang.com/documents/minecraft_eula.
-
-This software is not an official product of Minecraft, Mojang Studios, Microsoft, or PaperMC. It is an independent third-party application.
-
 
 
 Contact Us:
