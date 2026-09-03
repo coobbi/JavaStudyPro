@@ -1,68 +1,94 @@
-Privacy Policy
+```text
+Privacy Policy for DAT File Opener
 
-coobbi built the DAT File Opener app. This SERVICE is provided by coobbi.
+Effective Date: September 3, 2026
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+coobbi (“we,” “us,” or “our”) develops and provides DAT File Opener (the “App”).
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+This Privacy Policy explains how the App handles information when you use it.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at DAT File Opener unless otherwise defined in this Privacy Policy.
+1. Information Processed Locally
 
-Information Collection and Use:
+DAT File Opener is designed to open, detect, preview, and extract files that you actively select on your device.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to device id. The information that I request will be retained on your device and is not collected by me in any way.
+When you select a file or folder, the App may process the following information locally on your device:
 
-The app does use third-party services that may collect information used to identify you.
+- File content;
+- File name, size, and detected type;
+- File URI or access path;
+- File opening time;
+- Recently opened file records;
+- App settings, such as the warning preference for non-DAT files.
 
-Link to the privacy policy of third-party service providers used by the app
+This information is used only to provide file opening, preview, scanning, extraction, recent-file, and app-settings functionality.
 
-Google Play Services
-AdMob
-Google Analytics for Firebase
-Facebook
-Fabric
-Log Data:
+Except as described in the Advertising Services section below, we do not upload the contents of files you select, file names, file URIs, recent-file records, or extracted files to our own servers.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+2. File Access and Storage
 
-Cookies:
+The App accesses files and folders only after you actively select them through the Android system file picker.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+If you use the extraction feature, extracted files are saved to the destination folder you choose. These files remain on your device until you delete them using your file manager or, where applicable, the App’s cleanup feature.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Recent-file records are stored locally on your device. You can clear recent-file records within the App. Uninstalling the App generally removes App-private settings and records, but it does not automatically remove files saved to a folder that you selected outside the App’s private storage.
 
-Service Providers:
+3. Advertising Services and Third-Party Data Processing
 
-I may employ third-party companies and individuals due to the following reasons:
+The App uses the Google Mobile Ads SDK (AdMob) to display advertisements, including banner and app-open advertisements.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+To provide advertising, measure advertising performance, conduct analytics, and prevent fraud, the Google Mobile Ads SDK may automatically collect and share:
 
-Security:
+- IP address, which may be used to estimate the general location of a device;
+- Advertising ID, App Set ID, and other device or account-related identifiers;
+- App interaction information, such as app launches, taps, and ad interactions;
+- Diagnostic information, such as App or SDK performance, launch time, hang rate, and energy usage.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+This information is processed by Google and its advertising service providers in accordance with their applicable privacy policies. Google Mobile Ads SDK uses TLS encryption for data transmitted in transit.
 
-Links to Other Sites:
+Google Privacy Policy:
+https://policies.google.com/privacy
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+You may reset or delete your Advertising ID and manage personalized advertising settings through your Android device settings. Users in certain regions may also manage consent choices through Google’s privacy options.
 
-Children’s Privacy:
+4. Information We Do Not Intentionally Collect
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+The App does not provide account registration or login functionality.
 
-Changes to This Privacy Policy:
+We do not intentionally collect your name, phone number, email address, contacts, messages, precise location, photos, audio, video, or payment information.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+5. Data Sharing
 
-By downloading, installing, or using this software, you agree to the terms of the Minecraft End User License Agreement (EULA) provided by Mojang Studios/Microsoft, available at: https://account.mojang.com/documents/minecraft_eula.
+We do not sell your personal information.
 
-This software is not an official product of Minecraft, Mojang Studios, Microsoft, or PaperMC. It is an independent third-party application.
+We do not share the contents of files you select or your local recent-file records with third parties. Information processed by Google Mobile Ads SDK may be shared with Google and advertising-related service providers as described in the Advertising Services section.
 
+6. Data Security
 
+We use reasonable measures to protect information processed by the App. File processing primarily occurs on your device. However, no method of internet transmission or electronic storage is completely secure.
 
-Contact Us:
+7. Children’s Privacy
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at imzine.com@gmail.com.
+The App is not designed for children under the age of 13. We do not knowingly collect personal information from children under 13.
+
+8. Your Choices and Data Deletion
+
+You can:
+
+- Clear recent-file records within the App;
+- Use the App’s cleanup feature to remove applicable extracted files;
+- Delete extracted files from your chosen folder using your device file manager;
+- Uninstall the App to remove App-private local data;
+- Manage or reset your Advertising ID through Android device settings.
+
+If you have questions about privacy or data handling, please contact us using the information below.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised effective date.
+
+10. Contact Us
+
+Developer: coobbi
+App Name: DAT File Opener
+Email: imzine.com@gmail.com
+```
