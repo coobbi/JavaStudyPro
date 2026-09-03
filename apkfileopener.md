@@ -1,63 +1,64 @@
-Privacy Policy
+# Privacy Policy for APK File Opener
 
-coobbi built the APK File Opener app. This SERVICE is provided by coobbi.
+**Effective date: September 3, 2026**
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Coobbi built APK File Opener. This Privacy Policy explains how the app handles
+information when you use it.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+## Information handled by the app
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at APK File Opener unless otherwise defined in this Privacy Policy.
+APK File Opener lets you choose APK, XAPK, and APKS archive files from your
+device. The app reads and analyzes only the file that you select. Selected file
+contents are processed locally on your device and are not uploaded to, stored
+on, or shared with Coobbi.
 
-Information Collection and Use:
+To provide recent-file functionality, the app stores selected file metadata on
+your device, including the file display name, content URI, file type, file size,
+and the time it was opened. This information remains on your device unless you
+remove it from the Recent Files screen or clear the app's data.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to device id. The information that I request will be retained on your device and is not collected by me in any way.
+The app may make a temporary local copy of a selected archive in the Android
+app cache while it is being analyzed. Android or the user can clear this cache
+at any time. APK File Opener does not upload these cached files.
 
-The app does use third-party services that may collect information used to identify you.
+## Advertising
 
-Link to the privacy policy of third-party service providers used by the app
+APK File Opener uses the Google Mobile Ads SDK (AdMob) to display ads. Google
+may collect and process data, such as device identifiers, IP address, diagnostic
+information, and advertising or usage information, in accordance with Google's
+policies and the configuration of the ad service. For more information, review
+Google's privacy policy at https://policies.google.com/privacy.
 
-Google Play Services
-AdMob
-Google Analytics for Firebase
-Facebook
-Fabric
-Log Data:
+Coobbi does not sell or share the contents of files that you select in APK File
+Opener with advertisers or other third parties.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## Data retention and deletion
 
-Cookies:
+Recent-file metadata is retained locally until you remove it from the app or
+clear the app's data. Temporary archive copies are retained only in the app
+cache until Android clears the cache or you clear the app's cache or data.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+APK File Opener does not offer user accounts and does not maintain a server-side
+database of selected archive files or recent-file metadata.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+## Security
 
-Service Providers:
+The app processes selected archive files locally. We recommend that you open
+files only from sources you trust. No method of electronic storage or
+transmission is completely secure.
 
-I may employ third-party companies and individuals due to the following reasons:
+## Children's privacy
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+APK File Opener is not directed at children. The app does not knowingly collect
+personal information from children.
 
-Security:
+## Changes to this policy
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+We may update this Privacy Policy when the app's data practices change. The
+current version will be posted at the privacy-policy URL shown in the app and
+in Google Play.
 
-Links to Other Sites:
+## Contact
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-Children’s Privacy:
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
-
-Changes to This Privacy Policy:
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-
-Contact Us:
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at imzine.com@gmail.com.
+If you have questions about this Privacy Policy, contact Coobbi at
+imzine.com@gmail.com.
