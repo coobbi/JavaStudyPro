@@ -1,64 +1,72 @@
-Privacy Policy
+# Privacy Policy for DLL File Viewer & EXE Viewer
 
-coobbi built the DLL File Viewer & EXE Viewer app. This SERVICE is provided by coobbi.
+**Last updated: September 3, 2026**
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+DLL File Viewer & EXE Viewer (the **“App”**) is provided by **Coobbi** (“we,” “us,” or “our”). This Privacy Policy explains how the App handles information when you use it.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+The App is a local file-inspection tool. It does not run DLL or EXE files and does not upload selected file contents to our servers.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at DLL File Viewer & EXE Viewer unless otherwise defined in this Privacy Policy.
+## 1. Files and local analysis
 
-Information Collection and Use:
+When you select a file, the App reads it through Android's system file picker and processes it locally on your device.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to device id. The information that I request will be retained on your device and is not collected by me in any way.
+To perform an analysis, the App temporarily copies the selected file to its private cache. The temporary copy is deleted when the analysis finishes or fails. We do not upload the contents of selected files to Coobbi servers.
 
-The app does use third-party services that may collect information used to identify you.
+If you choose to export an analysis report, the report is saved only to the location you select through Android's system file saver. Sharing or sending an exported report is initiated by you.
 
-Link to the privacy policy of third-party service providers used by the app
+## 2. Information stored locally on your device
 
-Google Play Services
-AdMob
-Google Analytics for Firebase
-Facebook
-Fabric
-Log Data:
+The App may store the following information locally in its private app storage:
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+- **Recent files:** file display name, content URI, file size, time opened, file type, and architecture.
+- **Pro analysis history:** structured analysis metadata such as file name, size, hash, file type, architecture, certificate signer information, and version metadata. Raw file contents and file paths are not stored in this history.
+- **Pro status:** a local indicator showing whether Pro features are enabled.
 
-Cookies:
+This local information is not uploaded to Coobbi servers and is excluded from Android cloud backup and device-transfer backup.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+You can remove locally stored information by clearing analysis history where available, clearing the App's data in your device settings, or uninstalling the App. The App may also replace older history entries when its storage limits are reached.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+## 3. Advertising
 
-Service Providers:
+The free version of the App displays ads using the **Google Mobile Ads SDK (AdMob)**.
 
-I may employ third-party companies and individuals due to the following reasons:
+Google's SDK may automatically collect and share information such as IP address, device and account identifiers (including the Android advertising ID and app set ID), app interaction information, and diagnostic information. Google uses this information for advertising, analytics, and fraud prevention. Depending on your region, device settings, and consent choices, ads may be personalized or non-personalized.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Google's handling of this information is governed by the [Google Privacy Policy](https://policies.google.com/privacy) and the [Google Ads Settings](https://myadcenter.google.com/).
 
-Security:
+Where required by applicable law, we will provide the required notice and consent choices before using personal data for personalized advertising.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## 4. Purchases
 
-Links to Other Sites:
+The App offers an optional one-time Pro purchase through **Google Play Billing**. Google Play processes payments and purchase transactions. We do not receive or store your payment card details.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The App queries Google Play for product details and purchase status, and stores only a local Pro-status indicator on your device. Google’s handling of purchase-related information is governed by its own policies.
 
-Children’s Privacy:
+## 5. Information we do not use
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+The App does not include Firebase Analytics, Facebook, Fabric, or any Coobbi analytics service. We do not sell user data. We do not upload selected file contents, analysis results, recent-file records, or Pro analysis history to Coobbi servers.
 
-Changes to This Privacy Policy:
+## 6. Security
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+The App keeps local analysis data in Android's private app storage. Network communications made by Google Mobile Ads and Google Play Billing are handled by Google and are encrypted in transit according to Google's services and policies.
 
+No method of electronic storage or transmission is completely secure. Please avoid selecting files that you are not authorized to access or share.
 
+## 7. Children
 
-Contact Us:
+The App is not directed to children under 13. We do not knowingly collect personal information directly from children under 13.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at imzine.com@gmail.com.
+## 8. Third-party links
+
+The App may open links to third-party services, such as this Privacy Policy, Google Play, or your email application. Those services are governed by their own privacy policies.
+
+## 9. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will post the updated version at this URL and revise the “Last updated” date.
+
+## 10. Contact us
+
+If you have questions about this Privacy Policy, contact us at:
+
+**Coobbi**  
+**Email:** imzine.com@gmail.com
