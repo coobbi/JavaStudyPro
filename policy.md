@@ -1,66 +1,103 @@
 Privacy Policy
 
-coobbi built the Jre4Android(Java runtime environment for andrdoid) app as an Ad Supported app. This SERVICE is provided by coobbi at no cost and is intended for use as is.
+Last updated: September 3, 2026
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+coobbi (“we”, “us”, or “our”) provides JAR Runner – Java Runtime Environment (the “App”). This Privacy Policy explains how information is handled when you use the App.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+1. Information We Handle
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Java runtime environment unless otherwise defined in this Privacy Policy.
+The App is designed to run Java applications and JAR files selected by you.
 
-Information Collection and Use:
+Files and local data
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to device id. The information that I request will be retained on your device and is not collected by me in any way.
+The App may access files that you select through the Android system file picker, such as JAR files, class files, and related files. These files are used locally on your device to provide the App’s runtime and launch features. The App may copy selected files to its local cache or app-specific storage so that they can be launched again from the App history.
 
-The app does use third-party services that may collect information used to identify you.
+We do not operate a service that uploads the contents of your selected JAR files, class files, or local documents to servers controlled by us.
 
-Link to the privacy policy of third-party service providers used by the app
+The App also stores settings, launch history, Java runtime files, and Pro entitlement status locally on your device. You can remove this local data by deleting items in the App, clearing the App’s storage in Android settings, or uninstalling the App.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
-*   [Fabric](https://policies.google.com/privacy)
+Device, diagnostic, and usage information
 
-Log Data:
+The App uses Google services that may collect or process information such as device identifiers, advertising identifiers, IP address, device model, operating system version, app version, app interaction information, crash reports, and diagnostic information.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+The App uses Firebase Analytics to understand basic App interactions, such as file-selection events. The App does not intentionally send the names, paths, or contents of your selected JAR files to Firebase Analytics.
 
-Cookies:
+Advertising information
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+The free version of the App displays advertisements through Google AdMob. AdMob and its partners may process device identifiers, advertising identifiers, IP address, approximate location derived from IP address, app and device information, and advertising interaction information to provide, measure, personalize, or limit advertisements, subject to your consent choices and applicable law.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Purchase information
 
-Service Providers:
+The App offers an optional one-time Pro Version purchase through Google Play Billing. Google Play processes payments. We do not receive or store your payment card number or other payment credentials.
 
-I may employ third-party companies and individuals due to the following reasons:
+The App queries Google Play to determine whether your Google Play account has an active purchase entitlement for the Pro Version. The App stores a local entitlement flag on your device to enable Pro features.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+2. How Information Is Used
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Information handled by the App or its service providers may be used to:
 
-Security:
+Provide Java runtime, file-launching, and Pro features;
+Maintain your local settings and launch history;
+Display and measure advertisements in the free version;
+Analyze App usage and improve reliability;
+Detect, diagnose, and fix crashes;
+Process and restore your Google Play Pro Version purchase;
+Meet legal, security, and fraud-prevention requirements.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+3. Third-Party Services
 
-Links to Other Sites:
+The App uses the following third-party services:
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Google Play Services and Google Play Billing
+https://policies.google.com/privacy
 
-Children’s Privacy:
+Google AdMob
+https://policies.google.com/privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+Google User Messaging Platform
+https://policies.google.com/privacy
 
-Changes to This Privacy Policy:
+Firebase Analytics
+https://firebase.google.com/support/privacy
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Firebase Crashlytics
+https://firebase.google.com/support/privacy
 
-This policy is effective as of 2023-08-14
+These providers may process information in accordance with their own privacy policies.
 
-Contact Us:
+4. Advertising Consent and Privacy Choices
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at imzine.com@gmail.com.
+Where required by law, the App uses Google’s consent tools to request your choices before requesting advertisements.
+
+You may be able to change advertising privacy choices through the App’s Privacy Choices option, where available, or through your device and Google account privacy settings.
+
+Choosing not to allow personalized advertising may result in non-personalized advertising or may limit the availability of some advertising-supported features.
+
+5. Data Retention
+
+Local App data remains on your device until you delete it, clear the App’s storage, or uninstall the App.
+
+Information processed by Google services is retained according to Google’s applicable policies and settings. We do not operate user accounts or maintain a separate server-side database of your selected files.
+
+6. Data Security
+
+We use reasonable measures to protect local App data. However, no method of electronic storage or transmission is completely secure. You are responsible for protecting files stored on your device and for exercising caution when running files obtained from untrusted sources.
+
+7. Children’s Privacy
+
+The App is not designed for children under the age of 13. We do not knowingly collect personal information directly from children. If you believe that a child has provided personal information through the App, please contact us.
+
+8. External Links
+
+The App may contain links to third-party websites or services. We are not responsible for the privacy practices or content of those third parties.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted at the policy link shown in the App. Your continued use of the App after an update means that you acknowledge the updated policy.
+
+10. Contact Us
+
+If you have questions about this Privacy Policy, contact:
+
+coobbi
+Email: imzine.com@gmail.com
